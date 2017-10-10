@@ -1,0 +1,15 @@
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\obj\Debug\MainScript.csprojResolveAssemblyReference.cache
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\MainScript.exe.config
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\MainScript.exe
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\MainScript.pdb
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\mindtouch.dream.dll
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\log4net.dll
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\SgmlReaderDll.dll
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\Autofac.dll
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\mindtouch.dream.pdb
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\mindtouch.dream.xml
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\mindtouch.dream.dll.config
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\log4net.xml
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\bin\Debug\Autofac.xml
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\obj\Debug\MainScript.exe
+C:\Users\RobertsJ\Desktop\Scripting_Project\DReAM-master\src\MainScript\obj\Debug\MainScript.pdb
